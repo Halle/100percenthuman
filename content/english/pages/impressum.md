@@ -17,7 +17,7 @@ Director: Halle Winkler<br>
 VAT ID DE279336934<br>
 Registration number HRB 136840 B, registered with Amtsgericht Charlottenburg, Berlin, Germany
 
-You can reach Politepix via email at the [contact form](contact), or via post at:
+You can reach Politepix via email at the [contact form](https://100percenthuman.dev/contact), or via post at:
 
 Politepix UG (haftungsbeschränkt)<br>
 Paul-Lincke-Ufer 5<br>

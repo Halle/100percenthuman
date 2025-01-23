@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Learn more"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://100percenthuman.dev/contact"
 
 # Features
 features:
