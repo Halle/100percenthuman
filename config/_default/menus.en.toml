@@ -1,0 +1,29 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "100% Human UI Test Program"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Impressum"
+url = "/impressum"
+weight = 2
+
