@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Code assistants helping your team write more features, but you’re also shipping more surprises?<br><br>Time to pin down your product behavior by finally getting that UI test suite."
-  content: "**100% Human** from Politepix: six weeks to get your most important interactions under test, while making it easier for you to add UI tests in the future. For happier users, and better sleep for you.<br><br>Implemented for your **iOS app** or **macOS app** by an experienced 100% human."
+  content: "**100% Human** from Politepix: six weeks to get your most important interactions under test, while making it easier for you to add UI tests in the future. For happier users, and better sleep for you.<br><br>Implemented for your **iOS app** or **macOS app** by an experienced 100% human.{{< rawhtml >}}<a id='learnmore'>{{< /rawhtml >}}"
   image: false
   button:
     enable: true
     label: "Learn more"
-    link: "https://100percenthuman.dev/contact"
+    link: "#learnmore"
 
 # Features
 features:
