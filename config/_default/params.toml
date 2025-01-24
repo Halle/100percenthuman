@@ -54,7 +54,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["100Human", "Testing"]
-description = "100 Human"
+description = "100 Human: six weeks to great UI Testing for your iOS or macOS app"
 author = "Halle"
 image = "images/100human_landscape.png"
 
