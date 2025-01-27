@@ -139,13 +139,13 @@ lazy = true
 link = "plugins/glightbox/glightbox.css"
 lazy = true
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/brands.css"
+link = "plugins/fontawesome/css/brands.css"
 lazy = true
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/solid.css"
+link = "plugins/fontawesome/css/solid.css"
 lazy = true
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/icons.css"
+link = "plugins/fontawesome/css/icons.css"
 lazy = true
 
 # JS Plugins
