@@ -19,3 +19,4 @@ Gemfile.lock
 /hugo_stats.json
 /public
 /resources/_gen
+/.hugo_build.lock
