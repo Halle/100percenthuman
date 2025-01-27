@@ -92,7 +92,7 @@ features:
     
         {{< accordion title=\"Why UI tests? Why not unit tests or snapshot tests?\" >}}
     
-    You should definitely have other tests! We can even discuss that if it is a need. It is also possible that some things that look like potential UI tests would be a better unit or snapshot tests, and I will tell you if so. However, I think a good suite of UI tests is a great last defense against **product-level** surprises that arrive due to code assistants adding features much faster, but with less reasoning and less systematic/historical knowledge about your product.
+    You should definitely have other tests! We can even discuss that if it is a need. It is also possible that some things that look like potential UI tests would be a better unit or snapshot test, and I will tell you if so. However, I think a good suite of UI tests is a great last defense against **product-level** surprises that arrive due to code assistants adding features much faster, but with less reasoning and less systematic/historical knowledge about your product.
  
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
