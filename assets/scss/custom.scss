@@ -3,58 +3,37 @@
 @font-face {
 	font-family: 'LttRecoleta-SemiBold';
 	src: url('../ltt-recoleta-semibold.woff2') format('woff2'),
-	     url('../ltt-recoleta-semibold.woff') format('woff'),
-	     url('../ltt-recoleta-semibold.ttf') format('truetype');
-  font-weight: 500 700;
+		 url('../ltt-recoleta-semibold.woff') format('woff'),
+		 url('../ltt-recoleta-semibold.ttf') format('truetype');
+	font-weight: 500 700;
 	font-style: normal;
 }
 
-
-
 @font-face {
-  font-family: "signika";
-  src:
-    url("../signika.woff2") format("woff2"),
-    url("../signika.woff") format("woff");
-  font-weight: 500 700;
-  font-style: normal;
-  font-display: swap;
-  
+font-family: "heebo";
+	src: url("../heebo.woff2") format("woff2"),
+		 url("../heebo.woff") format("woff");
+	font-weight: 400 600;
+	font-style: normal;
+	font-display: swap;
+
 }
 
 @font-face {
-  font-family: "heebo";
-  src:
-    url("../heebo.woff2") format("woff2"),
-    url("../heebo.woff") format("woff");
-  font-weight: 400 600;
-  font-style: normal;
-  font-display: swap;
-  
+	font-family: 'Font Awesome 6 Brands';
+	font-style: normal;
+	font-weight: 400;
+	font-display: block;
+	src: url("../fa-brands-400.woff2") format("woff2"),
+		 url("../fa-brands-400.ttf") format("truetype");  
 }
 
 @font-face {
-  font-family: 'Font Awesome 6 Brands';
-  font-style: normal;
-  font-weight: 400;
-  font-display: block;
-  src: url("../fa-brands-400.woff2") format("woff2"),
-    url("../fa-brands-400.ttf") format("truetype"); 
-    
- 
-}
-@font-face {
- font-family: 'Font Awesome 6 Free';
-  font-weight: 900;
-      font-style: normal;
-
-  font-display: block;
-  src: url("../fa-solid-900.woff2") format("woff2"),
-    url("../fa-solid-900.ttf") format("truetype"); 
- 
+	font-family: 'Font Awesome 6 Free';
+	font-weight: 900;
+	font-style: normal;
+	font-display: block;
+	src: url("../fa-solid-900.woff2") format("woff2"),
+		 url("../fa-solid-900.ttf") format("truetype"); 
 }
 
-h2.mb-4, h2.mb-6, h3.mb-6 {
-	font-family: LttRecoleta-SemiBold;
-}
-// Add your own custom styles here
