@@ -1,13 +1,15 @@
+
+
 @font-face {
-  font-family: "recoletabold";
-  src:
-    url("../Recoleta-Bold.woff2") format("woff2"),
-    url("../Recoleta-Bold.woff") format("woff");
+	font-family: 'LttRecoleta-SemiBold';
+	src: url('../ltt-recoleta-semibold.woff2') format('woff2'),
+	     url('../ltt-recoleta-semibold.woff') format('woff'),
+	     url('../ltt-recoleta-semibold.ttf') format('truetype');
   font-weight: 500 700;
-  font-style: normal;
-  font-display: swap;
-  
+	font-style: normal;
 }
+
+
 
 @font-face {
   font-family: "signika";
@@ -53,6 +55,6 @@
 }
 
 h2.mb-4, h2.mb-6, h3.mb-6 {
-	font-family: recoletabold;
+	font-family: LttRecoleta-SemiBold;
 }
 // Add your own custom styles here
