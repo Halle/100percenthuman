@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Code assistants helping your team write more features, but you’re also shipping more surprises?<br><br>Time to pin down your product behavior by finally getting that UI test suite."
-  content: "**100% Human** from Politepix: six weeks to get your most important interactions under test, while making it easier for you to add UI tests in the future. For happier users, and better sleep for you.<br><br>Implemented for your **iOS app** or **macOS app** by an experienced 100% human.{{< rawhtml >}}<a id='learnmore'>{{< /rawhtml >}}"
+  title: "Code assistants helping your team write more features, but you’re also shipping more surprises?<br><br>Time to pin down your product behavior by finally getting that UI and e2e test suite."
+  content: "**100% Human** from Politepix: six weeks to get your most important interactions under test, while making it easier for you to add UI tests and e2e tests in the future. For happier users, and better sleep for you.<br><br>Implemented for your **iOS app** or **macOS app** by an experienced 100% human.{{< rawhtml >}}<a id='learnmore'>{{< /rawhtml >}}"
   image: false
   button:
     enable: true
@@ -15,7 +15,7 @@ features:
     image: "/images/banner.png"
     content: "100% Human: UI Tests is a six week program to get your most important product interactions under test:"
     bulletpoints:
-      - "**Week one:** onboard into your project, add UI test velocity/sustainability features to your codebase, stack-rank your tests via a weighted system of frequency, adjacency to your USP, security, and complexity."
+      - "**Week one:** onboard into your project, add UI and e2e test velocity/sustainability features to your codebase, stack-rank your tests via a weighted system of frequency, adjacency to your USP, security, and complexity."
       - "**Week two:** write your easiest, most crucial tests to smoke out and address any integration issues that didn't come up in onboarding."
       - "**Week three:** write your most challenging, most crucial tests to find and solve the outer limits of your testing challenges, so you will be in a great position to add sustainable tests after the program is over."
       - "**Weeks four through six:** write as many of your top-ranked remaining tests as possible in the time remaining, leaving you with a working test plan that addresses your most important interactions, which you will be able to add to with fewer pain points."
@@ -28,7 +28,7 @@ features:
     image:  "/images/banner.png"
     content: "{{< accordion title=\"Why is it called 100% Human?\" >}}
     
-    100% Human is a six-week program to get a sustainable UI test suite in place for your product, so that increased feature velocity from coding assistants doesn’t result in release surprises sneaking past your preflight checks.<br><br>The idea is that a 100% Human can use her extensive experience with other human engineers, and with writing software, and with large language models, and with infrastructure and automation, to make it safer for you to integrate code assistant code into your production flow, whether the arrival of code assistant code into your codebase is planned, or not.
+    100% Human is a six-week program to get a sustainable UI and e2e test suite in place for your product, so that increased feature velocity from coding assistants doesn’t result in release surprises sneaking past your preflight checks.<br><br>The idea is that a 100% Human can use her extensive experience with other human engineers, and with writing software, and with large language models, and with infrastructure and automation, to make it safer for you to integrate code assistant code into your production flow, whether the arrival of code assistant code into your codebase is planned, or not.
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
 
@@ -40,7 +40,7 @@ features:
         
     {{< accordion title=\"What are the prerequisites for being able to book 100% Human?\" >}}
     
-    You're ready for 100% Human when you have a list of interactions you know you need to test (maybe they are your preflight checks, or your QA list, or your aspirational UI Test list, or a list of things in plain language that have gone wrong in the past) and you have a working CI system.<br><br>You know better than anyone what needs testing in your app, and this varies from app to app, but I am happy to help with additional suggestions if I notice that adding a new test would add security or other benefits to your users or your production flow.<br><br>If you aren't there yet, you can also book the 3-week add-on to help you figure out your test plan, and/or the 3-week add-on to help you set up CI/CD. 
+    You're ready for 100% Human when you have a list of interactions you know you need to test (maybe they are your preflight checks, or your QA list, or your aspirational UI and e2e test list, or a list of things in plain language that have gone wrong in the past) and you have a working CI system.<br><br>You know better than anyone what needs testing in your app, and this varies from app to app, but I am happy to help with additional suggestions if I notice that adding a new test would add security or other benefits to your users or your production flow.<br><br>If you aren't there yet, you can also book the 3-week add-on to help you figure out your test plan, and/or the 3-week add-on to help you set up CI/CD. 
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
     
@@ -52,7 +52,7 @@ features:
 
     {{< accordion title=\"Why is it six weeks? Do all of our tests get written in six weeks?\" >}}
     
-    As you can guess, there is no way of knowing whether all of your test suite can be written in six weeks. Maybe, maybe not. The reason 100% Human UI Tests is only six weeks is because I think the <a href='https://en.wikipedia.org/wiki/Pareto_principle'>**Pareto Principle**</a> will help us focus in on the tests with the highest impact to your releases and to find the outer limits of your test complexity, after which you will have your gnarliest tests working, and you'll have a testbed with roadsigns and documentation about how to add your future tests and maintain your current ones. I actually think this is more valuable than being \"done with writing UI tests\", which is probably not a preferable goal compared to being less hesitant to add new UI tests or alter old ones.
+    As you can guess, there is no way of knowing whether all of your test suite can be written in six weeks. Maybe, maybe not. The reason 100% Human UI Tests is only six weeks is because I think the <a href='https://en.wikipedia.org/wiki/Pareto_principle'>**Pareto Principle**</a> will help us focus in on the tests with the highest impact to your releases and to find the outer limits of your test complexity, after which you will have your gnarliest tests working, and you'll have a testbed with roadsigns and documentation about how to add your future tests and maintain your current ones. I actually think this is more valuable than being \"done with writing tests\", which is probably not a preferable goal compared to being less hesitant to add new UI or e2e tests or alter old ones.
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
     
@@ -90,9 +90,9 @@ features:
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
     
-        {{< accordion title=\"Why UI tests? Why not unit tests or snapshot tests?\" >}}
+        {{< accordion title=\"Why UI/e2e tests? Why not unit tests or snapshot tests?\" >}}
     
-    You should definitely have other tests! We can even discuss that if it is a need. It is also possible that some things that look like potential UI tests would be a better unit or snapshot test, and I will tell you if so. However, I think a good suite of UI tests is a great last defense against **product-level** surprises that arrive due to code assistants adding features much faster, but with less reasoning and less systematic/historical knowledge about your product.
+    You should definitely have other tests! We can even discuss that if it is a need. It is also possible that some things that look like potential UI or e2e tests would be a better unit or snapshot test, and I will tell you if so. However, I think a good suite of UI and/or e2e tests is a great last defense against **product-level** surprises that arrive due to code assistants adding features much faster, but with less reasoning and less systematic/historical knowledge about your product.
  
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
@@ -118,7 +118,7 @@ features:
     
         {{< accordion title=\"We don't really have a written test plan for releases yet, but I'm starting to think we need one. Is that possible to get help with?\" >}}
     
-    Yes! That is an add-on that can happen before we start writing UI tests. 
+    Yes! That is an add-on that can happen before we start writing your tests. 
     {{< rawhtml >}}<br><br><a href='contact' class='btn btn-primary'>Get Started</a><br><br>{{< /rawhtml >}}
     {{< /accordion >}}
     
